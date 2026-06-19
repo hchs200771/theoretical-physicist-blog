@@ -1,5 +1,7 @@
 # Yi-Hsien (Sherry) Du — Academic Personal Site
 
+**Live:** https://hchs200771.github.io/theoretical-physicist-blog/
+
 A single-page static website. No framework, no build step — just `index.html` + `style.css`.
 
 ```
